@@ -1,0 +1,23 @@
+{
+  "name": "javascriptpractice",
+  "version": "1.0.0",
+  "description": "Repository of Javascript Practice Questions",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsh1292/JavascriptPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsh1292/JavascriptPractice/issues"
+  },
+  "homepage": "https://github.com/rsh1292/JavascriptPractice#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
